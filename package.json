@@ -27,6 +27,7 @@
     "nodemon": "^2.0.4",
     "style-loader": "^3.3.2",
     "webpack": "^5.69.1",
+    "webpack-cli": "^5.0.1",
     "webpack-pwa-manifest": "^4.3.0"
   }
 }
