@@ -15,20 +15,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel-loader": "^9.1.2",
-    "express": "^4.17.1",
-    "idb-wrapper": "^1.7.2",
-    "if-env": "^1.0.4",
-    "inject-web-manifest-plugin": "^1.0.6",
-    "workbox-window": "^6.5.4"
+   
+    "express": "^4.17.1"
+   
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "css-loader": "^6.7.3",
-    "nodemon": "^2.0.4",
-    "style-loader": "^3.3.2",
-    "webpack": "^5.69.1",
-    "webpack-cli": "^5.0.1",
-    "webpack-pwa-manifest": "^4.3.0"
+    
+    "nodemon": "^2.0.4"
   }
 }
